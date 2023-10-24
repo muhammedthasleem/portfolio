@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ce45515b.css",
+    "main.js": "/portfolio/static/js/main.f9975285.js",
+    "static/media/me.jpg": "/portfolio/static/media/me.87fa8788fde1076d7b69.jpg",
+    "static/media/Muhammed Thasleem.pdf": "/portfolio/static/media/Muhammed Thasleem.7e124a42efc2c4b1d39f.pdf",
+    "static/media/me1.JPG": "/portfolio/static/media/me1.6b81eb1cb7410d873bfb.JPG",
+    "index.html": "/portfolio/index.html",
+    "main.ce45515b.css.map": "/portfolio/static/css/main.ce45515b.css.map",
+    "main.f9975285.js.map": "/portfolio/static/js/main.f9975285.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce45515b.css",
+    "static/js/main.f9975285.js"
+  ]
+}
