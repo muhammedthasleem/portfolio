@@ -12,7 +12,7 @@ const Contact = () => {
 
 
   const handleCall = () => {
-    window.location.href = "tel:+1234567890";
+    window.location.href = "tel:+917034176901";
   };
 
   const handleEmail = () => {
